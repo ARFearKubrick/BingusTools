@@ -7,7 +7,7 @@ The identity editor and the Animator for **Bingus**, a Limbus Company PvP fan ga
 
 ## Download
 
-**[BingusTools_v1.zip](https://github.com/ARFearKubrick/BingusTools/releases/download/v1/BingusTools_v1.zip)** (about 820 MB). All versions are listed on the [Releases](https://github.com/ARFearKubrick/BingusTools/releases) page.
+**[BingusTools_v1.zip](https://github.com/ARFearKubrick/BingusTools/releases/download/v1/BingusTools.zip)** (about 820 MB). All versions are listed on the [Releases](https://github.com/ARFearKubrick/BingusTools/releases) page.
 
 Windows 10/11 (64-bit). You don't need to install anything else.
 
